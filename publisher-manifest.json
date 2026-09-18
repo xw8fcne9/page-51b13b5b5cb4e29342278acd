@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "template_version": "ba56c49d796df3fbd899",
+  "page_size": 20,
+  "site_id": "524267fbab8d7e78ea15cb78",
+  "owner": "xw8fcne9",
+  "repo": "page-51b13b5b5cb4e29342278acd",
+  "title": "免费订阅分享",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "51b13b5b5cb4e29342278acd",
+      "a": "唯云四杰(Imm)",
+      "b": "免费订阅分享",
+      "entity": "唯云四杰(Imm)",
+      "brand": "免费订阅分享",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "66d5d576edc4a3af97953da3c848dbd456e00c96d48b27cfe9c2dd90489de1c5",
+      "content": {
+        "primary_entity": "唯云四杰(Imm)",
+        "keyword1": "唯云四杰(Imm)",
+        "keyword2": "免费订阅分享",
+        "content": {
+          "AI_DESCRIPTION": "，唯云四杰(Imm)提供三档海外加速订阅，按设备数量与月流量区分。基础版适合单人轻量使用，旗舰版支持五台设备并配 IPLC 专线，团队版面向多设备高带宽场景。可在各平台客户端按文档导入订阅，按年付更省费用。",
+          "AI_HERO_SUBTITLE": "唯云四杰(Imm)多设备加速",
+          "AI_HERO_INTRO": "唯云四杰(Imm)提供三档海外加速订阅，覆盖单人轻量到多设备高带宽需求。按设备数量与月流量选择套餐，借助客户端导入订阅即可使用，年付方案更节省。",
+          "AI_VISUAL_TITLE": "唯云四杰(Imm)三档订阅",
+          "AI_HIGHLIGHT_1": "三档套餐按设备数区分",
+          "AI_HIGHLIGHT_2": "旗舰版含 IPLC 专线",
+          "AI_HIGHLIGHT_3": "年付方案更省费用",
+          "AI_FEATURES_TITLE": "套餐与设备选择",
+          "AI_FEATURES_INTRO": "从设备数量、月流量和线路偏好出发，选择合适套餐。",
+          "AI_FEATURE_TITLE_1": "按设备数选套餐",
+          "AI_FEATURE_TEXT_1": "基础版支持 3 台，旗舰版 5 台，团队版 20 台同时在线。",
+          "AI_FEATURE_TITLE_2": "按流量与线路选",
+          "AI_FEATURE_TEXT_2": "月流量从 100GB 到 1000GB，旗舰版配 IPLC 专线。",
+          "AI_FEATURE_TITLE_3": "年付更省费用",
+          "AI_FEATURE_TEXT_3": "基础版年付 ¥150，旗舰版 ¥350，团队版 ¥850。",
+          "AI_CLIENTS_TITLE": "按设备选客户端",
+          "AI_CLIENTS_INTRO": "不同设备对应不同客户端，依客户端文档导入订阅。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版 ¥15/月 适合单人，旗舰版 ¥35/月 适合多设备，团队版 ¥85/月 适合高带宽。",
+          "AI_GUIDE_TITLE": "使用三步",
+          "AI_GUIDE_INTRO": "选择服务、查看适配要求、依客户端文档配置订阅。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TEXT_1": "按设备数量和月流量选择基础版、旗舰版或团队版。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认设备系统与客户端要求，准备订阅信息。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "打开对应客户端，按文档导入订阅并连接。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_CLOSING_TITLE": "选对套餐",
+          "AI_CLOSING_TEXT": "根据设备数量与月流量，挑选适合的唯云四杰(Imm)套餐。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_QUESTION_1": "如何选择基础版或旗舰版？",
+          "AI_FAQ_ANSWER_1": "如果只有1至3台设备且每月流量在100GB以内，基础版即可；若需要5台设备或IPLC专线游戏加速，建议选旗舰版。",
+          "AI_FAQ_QUESTION_2": "一个套餐可以几台设备同时在线？",
+          "AI_FAQ_ANSWER_2": "基础版支持3台设备，旗舰版支持5台设备，团队版支持20台设备同时在线。",
+          "AI_FAQ_QUESTION_3": "年付套餐怎么收费？",
+          "AI_FAQ_ANSWER_3": "基础版年付150元，旗舰版年付350元，团队版年付850元；相比月付，年付可减少续费操作。",
+          "AI_FAQ_QUESTION_4": "客户端在哪里下载？",
+          "AI_FAQ_ANSWER_4": "请根据手机、电脑等设备类型，从客户端列表和对应使用文档中获取软件及订阅配置说明。",
+          "AI_FAQ_QUESTION_5": "团队版有哪些额外功能？",
+          "AI_FAQ_ANSWER_5": "团队版提供VIP高带宽节点、企业定制路由以及专属客户经理服务，适合小型团队协作使用。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "ee2943f75a1849c8362641e963f1af94aa8f098d7244141186c4da0498befd14",
+    "sitemap.xml": "56bbc5edf25c460a0549bccce1266a51a279b728c138d1bc331ecfd7a31e0b2f",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "e5a7aa9128d01e842839c7a1fc16306b034780e47f644777bc6aac39152915d9"
+}
